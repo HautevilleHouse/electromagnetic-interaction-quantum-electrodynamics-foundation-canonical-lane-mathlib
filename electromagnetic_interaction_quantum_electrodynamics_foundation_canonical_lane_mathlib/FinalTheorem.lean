@@ -1,0 +1,9 @@
+import electromagnetic_interaction_quantum_electrodynamics_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace electromagnetic_interaction_quantum_electrodynamics_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end electromagnetic_interaction_quantum_electrodynamics_foundation_canonical_lane_mathlib
+end HautevilleHouse
